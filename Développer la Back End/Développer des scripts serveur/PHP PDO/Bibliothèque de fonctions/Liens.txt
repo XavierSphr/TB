@@ -1,0 +1,2 @@
+file_exists :
+https://www.php.net/manual/fr/function.file-exists.php

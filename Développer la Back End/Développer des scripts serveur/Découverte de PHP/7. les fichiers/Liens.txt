@@ -1,0 +1,16 @@
+Gestion des erreurs :
+https://www.php.net/manual/fr/features.file-upload.errors.php
+Comment traiter les différents messages d'erreur
+https://www.php.net/manual/fr/features.file-upload.errors.php
+Type de médias :
+https://fr.wikipedia.org/wiki/Type_de_m%C3%A9dias
+Function - move_upload_file :
+https://www.php.net/manual/fr/function.move-uploaded-file.php
+Modifier les Permissions sur les Fichiers :
+https://codex.wordpress.org/fr:Modifier_les_Permissions_sur_les_Fichiers
+Function - chmod :
+https://www.php.net/manual/fr/function.chmod.php
+API :
+https://fr.wikipedia.org/wiki/Interface_de_programmation
+Chargements de fichiers par méthode POST :
+https://www.php.net/manual/fr/features.file-upload.post-method.php

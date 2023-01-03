@@ -1,0 +1,4 @@
+Hypertext Transfer Protocol :
+https://fr.wikipedia.org/wiki/Hypertext_Transfer_Protocol
+GET vs POST :
+https://www.xul.fr/ecmascript/get-post.php

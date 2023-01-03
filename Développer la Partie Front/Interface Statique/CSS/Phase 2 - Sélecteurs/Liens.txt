@@ -1,0 +1,8 @@
+Pseudo-classes :
+https://developer.mozilla.org/fr/docs/Web/CSS/Pseudo-classes#liste_des_pseudo-classes_standards
+
+Pseudo-éléments :
+https://developer.mozilla.org/fr/docs/Web/CSS/Pseudo-elements#Liste_des_pseudo-%C3%A9l%C3%A9ments
+
+Exercices : A toi de jouer ! : 
+https://flukeout.github.io/

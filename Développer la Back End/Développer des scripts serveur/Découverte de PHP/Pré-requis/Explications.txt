@@ -1,0 +1,6 @@
+Téléchargez tous les vcredist dans le zip (all_vc_redist_x86_x64) et ensuite executer le programme (check_vcredist)
+pour vérifier qu'aucun fichier ne manque ! Si un fichier et manquant télécharger le sur Internet.
+
+Formulaire d'ajout :
+http://localhost/add_vhost.php?lang=french
+

@@ -1,0 +1,11 @@
+A partir du schéma de la base de données dont voici le schéma : Créez le script de création de la base de données correspondant au modèle suivant :
+
+1) Renommez les attributs ( champs ) des différentes tables pour obtenir un système de codification uniforme.
+
+2) Lister les différentes contraintes d’intégrité à respecter
+
+3) Définir les clés primaires et les clés étrangères sur les différentes tables.
+
+4) Implémenter (créez le script complet) des différentes tables
+
+5) Le script hotel.sql doit s'executer sans erreurs

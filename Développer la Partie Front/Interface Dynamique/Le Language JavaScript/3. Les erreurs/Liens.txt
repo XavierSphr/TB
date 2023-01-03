@@ -1,0 +1,4 @@
+Les erreurs courantes en Javascript :
+https://www.toutjavascript.com/savoir/savoir10.php3
+Exemples : 
+https://www.pierre-giraud.com/javascript-apprendre-coder-cours/gestion-erreur-exception-try-catch/

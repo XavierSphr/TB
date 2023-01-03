@@ -1,0 +1,2 @@
+Liste des mots réservés :
+https://developer.mozilla.org/fr/docs/conflicting/Web/JavaScript/Reference/Lexical_grammar

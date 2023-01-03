@@ -1,0 +1,4 @@
+Variables SuperGlobales :
+https://www.php.net/manual/fr/language.variables.superglobals.php
+Documentation :
+https://www.php.net/manual/fr/language.variables.scope.php#language.variables.scope.static

@@ -1,0 +1,6 @@
+OpenclassRooms :
+https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/916990-les-expressions-regulieres-partie-1-2
+REGEX 101 (Pour tester des regex):
+https://regex101.com/
+Validation de formulaires HTML en JavaScript :
+https://www.pierre-giraud.com/javascript-apprendre-coder-cours/validation-formulaire/

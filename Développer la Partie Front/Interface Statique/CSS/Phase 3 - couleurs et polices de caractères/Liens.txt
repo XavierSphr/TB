@@ -1,0 +1,17 @@
+Google Fonts :
+https://fonts.google.com/
+
+CSS Fonts :
+https://developer.mozilla.org/fr/docs/Web/CSS/CSS_Fonts
+
+HTML Color Picker :
+https://www.w3schools.com/colors/colors_picker.asp
+
+CSS Borders :
+https://www.w3schools.com/css/css_border.asp
+
+border-radius :
+https://developer.mozilla.org/fr/docs/Web/CSS/border-radius
+
+text-shadow :
+https://developer.mozilla.org/fr/docs/Web/CSS/text-shadow

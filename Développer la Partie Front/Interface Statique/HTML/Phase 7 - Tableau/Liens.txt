@@ -1,0 +1,2 @@
+Exemple :
+https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_colgroup_test

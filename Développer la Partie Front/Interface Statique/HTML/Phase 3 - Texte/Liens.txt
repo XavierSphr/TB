@@ -1,0 +1,2 @@
+Les accents et caractères spéciaux en HTML :
+https://www.scriptol.fr/creation-site-web/accents-html.php

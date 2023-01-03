@@ -1,0 +1,6 @@
+La bible DevDocs :
+https://devdocs.io/javascript/
+JavaScript :
+https://developer.mozilla.org/fr/docs/Web/JavaScript
+JavaScript Tutorial :
+https://www.w3schools.com/js/default.asp

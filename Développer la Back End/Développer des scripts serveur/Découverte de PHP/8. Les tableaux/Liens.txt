@@ -1,0 +1,2 @@
+Fonctions sur les tableaux ¶ :
+https://www.php.net/manual/fr/ref.array.php

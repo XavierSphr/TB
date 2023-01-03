@@ -1,0 +1,14 @@
+Introduction à la balise video de HTML5 :
+https://www.alsacreations.com/article/lire/1125-introduction-balise-video-html5-mp4-h264-webm-ogg-theora.html
+
+Intégrer des vidéos et des playlists :
+https://support.google.com/youtube/answer/171780?hl=fr
+
+<audio> : l'élément audio embarqué :
+https://developer.mozilla.org/fr/docs/Web/HTML/Element/audio
+
+Guide des types et formats de médias : contenu image, audio et vidéo :
+https://developer.mozilla.org/fr/docs/Web/Media/Formats
+
+<iframe> : l'élément de cadre intégré :
+https://developer.mozilla.org/fr/docs/Web/HTML/Element/iframe

@@ -1,0 +1,4 @@
+Logiciel de gestion de version :
+https://fr.wikipedia.org/wiki/Logiciel_de_gestion_de_versions
+Site GitHub :
+https://git-scm.com/

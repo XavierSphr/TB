@@ -1,0 +1,19 @@
+Form Documentation :
+https://getbootstrap.com/docs/4.4/components/forms/
+Messages (Alerts) :
+https://getbootstrap.com/docs/4.4/components/alerts/
+Boutons :
+https://getbootstrap.com/docs/4.4/components/buttons/
+Cards :
+https://getbootstrap.com/docs/4.0/components/card/
+	Exemple : https://bootsnipp.com/tags/card
+Images :
+https://getbootstrap.com/docs/4.4/content/images/
+Responsive Images : comprendre srcset et sizes :
+https://www.alsacreations.com/article/lire/1621-responsive-images-srcset.html
+Arrière-plans avec CSS3 Backgrounds :
+https://www.alsacreations.com/tuto/lire/1390-arriere-plans-css3-background.html
+Système d'exploitation :
+https://getbootstrap.com/docs/4.4/content/reboot/#native-font-stack
+Typography :
+https://getbootstrap.com/docs/4.4/content/typography/

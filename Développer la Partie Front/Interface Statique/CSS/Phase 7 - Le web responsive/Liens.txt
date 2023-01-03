@@ -1,0 +1,6 @@
+Convertion :
+https://www.jarrige.fr/pixelrem/
+Pourquoi j'utilise l'unité Rem et non l'unité Pixel :
+https://blog.lesieur.name/pourquoi-j-utilise-l-unite-rem-et-non-l-unite-pixel/
+Responsive Images : comprendre srcset et sizes :
+https://www.alsacreations.com/article/lire/1621-responsive-images-srcset.html

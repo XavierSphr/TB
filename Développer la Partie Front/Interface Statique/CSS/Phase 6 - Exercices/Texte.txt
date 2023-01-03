@@ -1,0 +1,3 @@
+Reprenez les 3 pages HTML ( index.html contact.html et tableau.html ) 
+créées à la fin de la séquence HTML et utilisez une seule feuille de style CSS afin d'obtenir le résultat suivant 
+(habillez également les pages tableau.html et contact.html)

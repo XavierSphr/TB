@@ -1,0 +1,3 @@
+Installation HeidiSQL :
+https://www.heidisql.com/download.php
+Accées a notre page Web :  http://127.0.0.1 ou http://localhost

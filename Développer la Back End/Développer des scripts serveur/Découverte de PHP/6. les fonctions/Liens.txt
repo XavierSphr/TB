@@ -1,0 +1,2 @@
+Liste des fonctions et des méthodes :
+https://www.php.net/manual/fr/indexes.functions.php

@@ -1,0 +1,8 @@
+Découverte de JavaScript :
+https://www.pierre-giraud.com/javascript-apprendre-coder-cours/introduction-programmation-orientee-objet/
+Mozilla Developer Network :
+https://developer.mozilla.org/fr/docs/Web/JavaScript
+Developpez :
+https://javascript.developpez.com/
+W3Schools :
+https://www.w3schools.com/js/default.asp

@@ -1,0 +1,10 @@
+col :
+https://getbootstrap.com/docs/4.4/layout/grid/#auto-layout-columns
+auto :
+https://getbootstrap.com/docs/4.4/layout/grid/#variable-width-content
+offset :
+https://getbootstrap.com/docs/4.4/layout/grid/#offsetting-columns
+documentation sur la grille :
+https://getbootstrap.com/docs/4.4/layout/grid/
+la documentation :
+https://getbootstrap.com/docs/4.4/utilities/display/#hiding-elements

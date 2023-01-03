@@ -1,0 +1,2 @@
+Réfléchissez à l'ordre de peuplement des tables afin de respecter les contraintes de clés étrangères pour cela vous aurez peut-être besoin de voir d'abord la méthode 2.
+

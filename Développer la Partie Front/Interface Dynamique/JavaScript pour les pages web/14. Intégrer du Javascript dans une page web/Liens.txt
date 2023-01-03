@@ -1,0 +1,4 @@
+Bonne Pratique recommandée :
+https://fr.wikipedia.org/wiki/Javascript_discret
+HTML DOM Document write() :
+https://www.w3schools.com/jsref/met_doc_write.asp

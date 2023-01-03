@@ -1,0 +1,6 @@
+Installation de Git :
+https://git-scm.com/
+Création de compte sur GitHub :
+https://github.com/
+Vidéo Git & GitHub - Le Cours Pour Les Débutants :
+https://www.youtube.com/watch?v=4o9qzbssfII&t=435s

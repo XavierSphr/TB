@@ -1,0 +1,7 @@
+1. Créez trois utilisateurs util1, util2, util3 pour la base hotel
+2. util1 doit pouvoir effectuer toutes les actions
+3. util2 ne peut que sélectionner les informations dans la base
+4. util3 n'a aucun droit sur la base de données, sauf d'afficher la table station
+
+Une fois les utilisateurs créés, testez en vous connectant et en envoyant les requêtes adaptées.
+

@@ -1,0 +1,2 @@
+Créez le script d'implémentation des différentes tables sous MySQL
+Créez un index sur le champ cli_nom de la table client.

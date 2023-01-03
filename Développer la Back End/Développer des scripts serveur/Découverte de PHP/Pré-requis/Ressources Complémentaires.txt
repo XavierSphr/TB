@@ -1,0 +1,4 @@
+Page d'acceuil : 
+https://httpd.apache.org/docs/2.4/fr/vhosts/
+Exemples :
+https://httpd.apache.org/docs/current/vhosts/examples.html

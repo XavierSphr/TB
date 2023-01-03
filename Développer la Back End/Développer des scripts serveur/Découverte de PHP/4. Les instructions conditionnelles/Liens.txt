@@ -1,0 +1,4 @@
+Isset :
+https://www.php.net/manual/fr/function.isset.php
+Sucre syntaxique :
+https://fr.wikipedia.org/wiki/Sucre_syntaxique

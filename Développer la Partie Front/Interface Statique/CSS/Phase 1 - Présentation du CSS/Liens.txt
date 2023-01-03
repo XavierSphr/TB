@@ -1,0 +1,6 @@
+<style> : l'élément d'information de style :
+https://developer.mozilla.org/fr/docs/Web/HTML/Element/style
+
+<link> : l'élément de lien vers des ressources externes :
+https://developer.mozilla.org/fr/docs/Web/HTML/Element/link
+
